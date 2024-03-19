@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NeuroScape
 ==================================================================================================================================
 
-15 year old aspiring developer who is completely immersed in coding
+16 year old aspiring developer who is completely immersed in coding
 -------------------------------------------------------------------
 
 * 🌍  I'm based in Novosibirsk
