@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [totoshkus@gmail.com](mailto:totoshkus@gmail.com)
-* 🧠  I'm learning Python and Java
+* 🧠  I'm learning Python and C++
 
 <a href="https://www.github.com/CodeNeuralist" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/CodeNeuralist?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
